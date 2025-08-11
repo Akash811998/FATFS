@@ -1,0 +1,14 @@
+../Core/Src/sd_card_driver.c:27:6:fatfs_tmr_callback	4	static
+../Core/Src/sd_card_driver.c:38:13:slave_select	8	static
+../Core/Src/sd_card_driver.c:47:13:slave_deselect	8	static
+../Core/Src/sd_card_driver.c:53:13:sd_spi_tx_byte	16	static
+../Core/Src/sd_card_driver.c:63:13:sd_spi_tx_buffer	16	static
+../Core/Src/sd_card_driver.c:72:16:sd_spi_rx_byte	16	static
+../Core/Src/sd_card_driver.c:91:16:sd_spi_rx_byte_ptr	16	static
+../Core/Src/sd_card_driver.c:96:13:sd_pwr_on	24	static
+../Core/Src/sd_card_driver.c:141:13:sd_pwr_off	4	static
+../Core/Src/sd_card_driver.c:147:13:sd_get_pwr_flag	4	static
+../Core/Src/sd_card_driver.c:154:16:sd_rdy_wait	16	static
+../Core/Src/sd_card_driver.c:171:13:sd_spi_rx_data_bulk	24	static
+../Core/Src/sd_card_driver.c:199:13:sd_spi_tx_data_bulk	24	static
+../Core/Src/sd_card_driver.c:242:16:sd_send_cmd	24	static
